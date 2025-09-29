@@ -103,8 +103,9 @@ definitions:
       minNum:
         type: integer
         format: "int32"
-        minimum: 0
+        minimum: 1
       maxNum:
         type: integer
         format: "int32"
         minimum: 1
+        
